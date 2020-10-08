@@ -1,0 +1,41 @@
+.toy-preview{
+    background-color: $clr-toy;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;    
+    border-style: groove;
+    font-family: montserrat;
+
+    // @media (max-width:$narrow-breakpoint){
+    //     .toy-preview{
+    //         flex-direction: column; 
+    //         background-color:green;
+    //     }
+    // }
+    .toy-btn{
+        padding: 16px;
+    }
+    .toy-details{
+        margin-left: 10px;
+    }
+    &:hover{
+        background-color: $clr-toy-hover;
+    }
+    button{
+        color: #222020;
+        background-color: $clr-background;
+
+        &:hover{
+            color: $clr-background;
+            background-color: #222020;
+        }
+    }
+    .details-link{
+        color: $clr-background;
+        padding: 14px;
+
+        &:hover {
+            color:white;
+        }
+    }
+}

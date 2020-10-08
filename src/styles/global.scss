@@ -1,0 +1,42 @@
+// Setup
+@import "setup/variables.scss";
+@import "setup/typography.scss";
+
+// Basics
+@import "basics/base.scss";
+@import "basics/layout.scss";
+@import "basics/helpers.scss";
+
+// Components
+@import "components/toy-preview.scss";
+@import "components/material-btn.scss";
+@import "components/GoogleMap.scss";
+@import "components/NavBar.scss";
+
+// Views
+@import "views/about.scss";
+@import "views/toys.scss";
+@import "views/ToyEdit.scss";
+@import "views/sighin.scss";
+@import "views/statistics.scss";
+@import "views/toyDetails.scss";
+
+
+
+
+// // Setup
+// @import "setup/variables.scss";
+// @import "setup/functions.scss";
+// @import "setup/mixins.scss";
+// @import "setup/typography.scss";
+
+// // Basics
+// @import "basics/helpers.scss";
+// @import "basics/layout.scss";
+// @import "basics/base.scss";
+// @import "basics/links.scss";
+// @import "basics/buttons.scss";
+
+// // Components
+// @import "components/main-header.scss";
+// @import "components/cat-card.scss";

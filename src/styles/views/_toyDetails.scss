@@ -1,0 +1,11 @@
+.toy-details{
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+
+    img{
+        object-fit: cover;
+        width: 70%;
+        margin: 0 15%;
+    }
+}

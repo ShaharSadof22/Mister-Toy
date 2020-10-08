@@ -1,0 +1,10 @@
+.nav-bar{
+    background-color: $clr-toy;
+    justify-content: center;
+    
+    .nav-item{
+        color: $clr-background;
+        padding: 10px 50px;
+        font-size: 25px;
+    }
+}

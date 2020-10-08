@@ -1,0 +1,12 @@
+.statistics-container{
+    text-align: center;
+
+    .material-btn{
+        background-color: $clr-toy;
+        color: white;
+
+        &:hover{
+            color: rgb(34, 32, 32);
+        }
+    }  
+}

@@ -1,0 +1,18 @@
+.toy-page{
+    text-align: center;
+    
+
+    .page-header{
+        font-size: 3em;
+        margin: 13px auto;
+        color: rgb(34, 32, 32);
+    }
+    .material-btn{
+        background-color: $clr-toy;
+        color: white;
+
+        &:hover{
+            color: rgb(34, 32, 32);
+        }
+    }  
+}
