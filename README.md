@@ -9,4 +9,4 @@ On the main page, there is a map with all the shops with their position.
 
 Link for the backend repo - https://github.com/ShaharSadof22/Mister-Toy-backend
 
-Try it - https://mister-toy2020.herokuapp.com/#/toy
+Try it - https://mister-toy2020.herokuapp.com/#/
